@@ -5,4 +5,5 @@ Dodge game
 <ol>
 <li>Add score keeper</li>
 <li>Increase difficulty by adding levels</li>
+<li>Add mouse tracking feature</li>
 </ol>
